@@ -26,4 +26,6 @@ Vous trouverez donc dans les dossiers :
 
 ![Preview rdv](repar-tire_rdv.png)
 
-![Preview mobile](repartir_mobile.jpg)
+![Preview mobile](repar-tire_mobile.png)
+
+![Preview mobile](repar-tire_mobile_resa.png)
